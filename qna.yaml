@@ -1,0 +1,105 @@
+version: 2
+task_description: 'Teach the model how to rhyme.'
+created_by: juliadenham
+seed_examples:
+- question: How did Leonardo da Vinci feel about his time?
+    answer: Leonardo da Vinci frequently felt that he lacked enough time to pursue all of his interests.
+- question: What was Leonardo da Vinci's daily schedule?
+    answer: The sources do not provide a specific daily schedule for Leonardo da Vinci. 
+- question: Did Leonardo da Vinci have a structured routine?
+    answer: While the sources don't detail his exact routine, it's suggested that Leonardo da Vinci balanced a wide array of interests, implying a degree of structure to accommodate them all.
+- question: What activities likely filled Leonardo da Vinci's time?
+    answer: Leonardo da Vinci likely dedicated his time to artistic pursuits, scientific investigations, invention design, and philosophical reflections.
+- question: How did Leonardo da Vinci approach learning?
+    answer: Leonardo da Vinci primarily learned through observation and experimentation, relying on empirical evidence as his guide.
+- question: Was Leonardo da Vinci formally educated?
+    answer: Leonardo da Vinci was largely self-taught and expressed some frustration with his lack of a classical education.
+- question: What was Leonardo da Vinci's primary mode of learning?
+    answer: Leonardo da Vinci favored a self-taught, empirical approach to learning, relying on his own observations and experimentation.
+- question: How did Leonardo da Vinci feel about his lack of formal education?
+    answer: Leonardo da Vinci harbored some resentment over not receiving a formal, classical education.
+- question: What intellectual qualities are evident in Leonardo da Vinci's works?
+    answer: Leonardo da Vinci's works showcase his keen observational skills, his commitment to experimentation, and his sophisticated understanding of diverse fields. 
+- question: What artistic talent contributed to Leonardo da Vinci's success?
+    answer: Leonardo da Vinci's exceptional draftsmanship was a key factor in his artistic achievements, garnering widespread recognition.
+- question: Did Leonardo da Vinci limit himself to artistic pursuits?
+    answer: Leonardo da Vinci saw himself as more than just an artist, pursuing knowledge in a variety of disciplines considered intellectual. 
+- question:  What was a notable characteristic of Leonardo da Vinci's writing?
+    answer: Leonardo da Vinci famously wrote in "mirror writing" from right to left, likely as a solution to avoid smudging ink as a left-handed writer.
+- question: Why did Leonardo da Vinci write in reverse?
+    answer: The reverse writing style of Leonardo da Vinci, often called "mirror writing," wasn't due to dyslexia or secrecy, but probably a practical way to avoid smudging as a left-handed writer. 
+- question: Was Leonardo da Vinci's mirror writing a sign of a disorder or a desire for secrecy?
+    answer: Contrary to popular belief, Leonardo da Vinci's mirror writing wasn't a result of dyslexia or an attempt to keep his work secret.
+- question: Did Leonardo da Vinci consider himself solely an artist?
+    answer: Leonardo da Vinci held aspirations beyond just being an artist, aiming for broader intellectual achievements.
+- question: Did Leonardo da Vinci prioritize financial gain in his pursuits?
+    answer: Leonardo da Vinci asserted that neither greed nor laziness impeded his work, implying his dedication wasn't driven by financial gain. 
+- question: What did Leonardo da Vinci say was his biggest obstacle?
+    answer:  Leonardo da Vinci claimed that a "want of time" was his primary challenge, not greed or laziness.
+- question: Do the sources provide information about Leonardo da Vinci's social interactions?
+    answer: The provided excerpts do not offer specific details about Leonardo da Vinci's social interactions with patrons or collaborators. 
+- question: How did Leonardo da Vinci gain knowledge and skills?
+    answer: Leonardo da Vinci largely acquired knowledge through self-directed learning, emphasizing empirical evidence and personal observations. 
+- question: Did Leonardo da Vinci value a structured, academic learning environment?
+    answer:  The sources suggest that Leonardo da Vinci leaned towards a more hands-on and observational learning style, rather than traditional academia. 
+- question: What was the foundation of Leonardo da Vinci's learning?
+    answer: Leonardo da Vinci's learning was heavily grounded in empirical evidence and direct observation of the world.
+- question: What characterized Leonardo da Vinci's approach to his various endeavors?
+    answer:  Leonardo da Vinci's self-directed learning led him to adopt an unconventional approach to all his pursuits, be it artistic representation or designing machinery.
+- question: What fueled Leonardo da Vinci's drive for exploration and discovery?
+    answer: The sources don't explicitly state what motivated Leonardo da Vinci's pursuit of knowledge. However, they showcase his wide-ranging interests and dedication to understanding various aspects of the world. 
+- question: Did Leonardo da Vinci confine his work to established methods?
+    answer: Leonardo da Vinci's work often broke away from traditional methods, showcasing an unconventional and innovative approach to diverse fields. 
+- question:  How were Leonardo da Vinci's inventions perceived by his contemporaries?
+    answer:  Some of Leonardo da Vinci's inventions were so ahead of their time that people of his era likely saw them as insane ideas.
+- question:  Did any of Leonardo da Vinci's seemingly outlandish ideas become reality?
+    answer:  Remarkably, several of Leonardo da Vinci's "insane" inventions, like parachutes, flying machines, and armored cars, eventually came to fruition.
+- question: What did Leonardo da Vinci's diverse notebooks reveal about his mind?
+    answer:  Leonardo da Vinci's notebooks, covering a wide range of topics, offer a glimpse into his fertile imagination and a mind brimming with ideas. 
+- question: What kind of subjects did Leonardo da Vinci write about?
+    answer:  Leonardo da Vinci's notebooks covered an incredibly broad range of subjects, from detailed anatomy studies to the specifics of mixing pigments.  
+- question: What do Leonardo da Vinci's notes and drawings on fantastic creatures suggest about his thinking?
+    answer:   Despite his emphasis on observation, Leonardo da Vinci's sketches of imaginative creatures like dragons reveal a powerful creative imagination.
+- question: Did Leonardo da Vinci's interest in observation limit his creative imagination? 
+    answer:  No, Leonardo da Vinci's focus on observation didn't hinder his imagination. His drawings of mythical beings show a capacity for creativity. 
+- question: Did Leonardo da Vinci adhere to a strict daily schedule?
+  answer: The sources don't explicitly describe a rigid daily schedule for Leonardo da Vinci.
+- question: What insight do da Vinci's notebooks offer into his daily activities?
+  answer: Da Vinci's notebooks, while not outlining a precise schedule, reveal a diverse range of interests that he pursued, likely requiring some structure to his days. These included artistic work, scientific investigations, engineering projects, and philosophical reflections.
+- question: How did Leonardo da Vinci express his feelings about the passage of time?
+  answer: Leonardo da Vinci lamented his perceived lack of time, feeling he needed more to fully explore his numerous passions and ideas.
+- question: Was Leonardo da Vinci more inclined towards practical knowledge or theoretical learning?
+  answer: Leonardo da Vinci favored a hands-on, empirical approach to learning, prioritizing experience and observation over theoretical studies.
+- question: What was the basis of Leonardo da Vinci's criticism of those who relied solely on ancient wisdom?
+  answer: Leonardo da Vinci, championing experiential learning, criticized those who solely depended on ancient texts, advocating for direct observation and experimentation as a more reliable path to knowledge.
+- question: Did Leonardo da Vinci's lack of formal education hinder his intellectual development?
+  answer: While acknowledging his lack of a classical education, Leonardo da Vinci's extensive work across art and science demonstrates that his self-directed learning fostered remarkable intellectual growth.
+- question: What did Leonardo da Vinci see as his greatest impediment in pursuing his endeavors?
+  answer: Leonardo da Vinci cited "want of time" as his main obstacle, emphasizing his dedication to his work and downplaying any influence of greed or laziness.
+- question: What did Leonardo da Vinci believe about the pursuit of material wealth?
+  answer: Leonardo da Vinci criticized the pursuit of material riches, advocating instead for the pursuit of wisdom as a more enduring form of wealth.
+- question: Was Leonardo da Vinci primarily motivated by financial gain in his work?
+  answer: Based on his writings, it appears that Leonardo da Vinci was driven by a genuine desire for knowledge and creative expression, rather than solely by financial rewards. He often prioritized intellectual pursuits over potentially lucrative commissions.
+- question: What were some of Leonardo da Vinci's notable personality traits, as described in the sources?
+  answer: Leonardo da Vinci was known for his generosity, often providing for friends regardless of their financial status. He was also described as friendly and gentle, though he experienced periods of darkness and inner turmoil.
+- question: How did Leonardo da Vinci approach social interactions?
+  answer: Leonardo da Vinci was known to be a keen observer of human behavior, often frequenting public spaces to study people's interactions, expressions, and gestures. He meticulously recorded these observations in his notebooks, likely as a resource for his artistic portrayals of human emotion.
+- question: What method did Leonardo da Vinci use to closely observe the details of a scene or object?
+  answer: Leonardo da Vinci recommended a systematic approach to observation, focusing on each detail individually before moving on to the next, similar to reading a book word by word.
+- question: What role did books play in Leonardo da Vinci's learning process?
+  answer: Despite his emphasis on experiential learning, Leonardo da Vinci was an avid reader and owned a diverse collection of books. He used books to supplement his observations and to expand his knowledge base.
+- question: What was a distinctive characteristic of Leonardo da Vinci's curiosity?
+  answer: Leonardo da Vinci's curiosity extended beyond the practical or the obvious. He was fascinated by seemingly mundane phenomena that others often overlooked, such as the tongue of a woodpecker or the formation of clouds.
+- question: Did Leonardo da Vinci's notebooks reveal a preference for specific areas of study?
+  answer: Leonardo da Vinci's notebooks covered an astonishingly diverse range of subjects, encompassing art, science, engineering, and philosophy. This reflects his insatiable curiosity and his desire to understand the interconnectedness of all things.
+- question: How did Leonardo da Vinci view the relationship between human ingenuity and nature's creations?
+  answer: Leonardo da Vinci deeply admired the elegance and efficiency of nature's designs. He believed that while humans could invent, they could never surpass the beauty and simplicity inherent in nature.
+document_outline: |
+  Details on the behavior of Leonardo Da Vinci.
+document:
+  repo: https://github.com/yahgoo/instructLabHackathon.git
+  commit: 214f98e3de234bb7b871226e3650ef1f1dda5beb
+  patterns:
+    - behavior.md
+
+
