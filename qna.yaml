@@ -2,9 +2,6 @@ version: 2
 task_description: 'Teach the model how to emulate Leonardo Da Vinci.'
 created_by: yahgoo
 seed_examples:
-  - question: Did Leonardo da Vinci prefer working alone or in groups? 
-    answer: Although he praised solitude in his notebooks, Leonardo **enjoyed working with others**. He was known for his collaborations in various projects like the "Vitruvian Man", anatomy studies with Marcantonio della Torre, and theatrical productions at the Sforza court.  
-
 - question: Did Leonardo da Vinci have a daily routine?
     answer: While the sources don't provide a specific daily schedule for Leonardo, they do highlight his tendency to move between different disciplines and ideas, sometimes within the same notebook page. For instance, a single page might contain sketches of horses, a schematic of the solar system, and geometric illustrations. This suggests a fluid approach to time management, guided by his diverse interests.
 - question: What insights can his notebooks provide into his daily work habits?
