@@ -10,7 +10,7 @@ seed_examples:
       page might contain sketches of horses, a schematic of the solar system,
       and geometric illustrations. This suggests a fluid approach to time
       management, guided by his diverse interests.
-  - question: |
+  - question: >
       What insights can his notebooks provide into his daily work habits?
     answer: >
       Leonardo\'s notebooks, filled with a mix of observations, sketches, and
@@ -45,7 +45,7 @@ seed_examples:
       observations in his notebooks. This keen observational skill fueled his
       artistic and scientific explorations, allowing him to discern patterns and
       connections that others missed.
-  - question: |
+  - question: >
       How did Leonardo\'s curiosity and observation shape his personality?
     answer: >
       Leonardo\'s insatiable curiosity and acute observation were not merely
@@ -75,8 +75,8 @@ seed_examples:
       How did Leonardo\'s imagination and innovation contribute to his artistic
       and scientific achievements?
     answer: >
-      Leonardo\'s imagination and innovation were integral to his success as
-      both an artist and scientist. His imaginative mind allowed him to conceive
+      Leonardo\'s imagination and innovation were integral to his success as both
+      an artist and scientist. His imaginative mind allowed him to conceive
       groundbreaking ideas, while his innovative spirit pushed him to experiment
       and invent solutions that challenged conventional thinking. These
       qualities, combined with his curiosity and observation, enabled him to
@@ -158,10 +158,10 @@ seed_examples:
       projects that generated the highest financial rewards.
   - question: How did Leonardo\'s interactions with patrons shape his career?
     answer: >
-      Leonardo\'s relationships with his patrons played a crucial role in
-      shaping his career trajectory. His search for patrons who valued his
-      multifaceted talents led him to various courts and cities, exposing him to
-      new challenges and opportunities. While his tendency to leave projects
+      Leonardo\'s relationships with his patrons played a crucial role in shaping
+      his career trajectory. His search for patrons who valued his multifaceted
+      talents led him to various courts and cities, exposing him to new
+      challenges and opportunities. While his tendency to leave projects
       unfinished could strain these relationships, his ability to captivate
       patrons with his intellect, charm, and artistic brilliance often secured
       him continued support and allowed him to pursue his wide-ranging
@@ -235,8 +235,7 @@ seed_examples:
       fields, engaging in discussions and seeking their guidance. He also
       acquired books, expanding his knowledge through reading and independent
       learning.
-  - question: >
-      Did Leonardo prioritize practical knowledge or theoretical concepts?
+  - question: Did Leonardo prioritize practical knowledge or theoretical concepts?
     answer: >
       Leonardo seamlessly blended practical knowledge with theoretical concepts.
       He applied his scientific understanding of optics, light, and shadow to
@@ -280,18 +279,16 @@ seed_examples:
       nature with anatomical studies, mathematical calculations, and engineering
       designs. This interdisciplinary approach reflects his belief in the
       interconnectedness of all knowledge.
-  - question: >
-      What is an example of Leonardo connecting different fields of study?
+  - question: What is an example of Leonardo connecting different fields of study?
     answer: >
       Leonardo’s study of human anatomy informed his artistic representations of
       the human form. His dissections allowed him to understand the underlying
       musculature, skeletal structure, and proportions of the body, which he
       then applied to create more lifelike and expressive figures in his
       paintings and sculptures.
-  - question: >
-      How did Leonardo\'s interconnected thinking contribute to his innovations?
+  - question: How did Leonardo\'s interconnected thinking contribute to his innovations?
     answer: >
-      Leonardo\'s ability to connect seemingly disparate fields of knowledge was
+      Leonardo’s ability to connect seemingly disparate fields of knowledge was
       a key driver of his innovations. By recognizing patterns and drawing
       analogies between different disciplines, he could transfer insights and
       principles from one area to another, leading to novel solutions and a
@@ -306,8 +303,7 @@ seed_examples:
       approach to time management. Leonardo\'s work habits seem to have been
       driven by his curiosity and the inspiration of the moment, often leading
       him to shift between different projects and ideas fluidly.
-  - question: >
-      How did Leonardo\'s approach to time management affect his productivity?
+  - question: How did Leonardo\'s approach to time management affect his productivity?
     answer: >
       Leonardo\'s flexible approach to time management, while allowing him to
       pursue a wide array of interests, also contributed to his tendency to
@@ -315,9 +311,8 @@ seed_examples:
       led him to abandon ongoing work, leaving a trail of incomplete
       masterpieces. For example, he left numerous paintings unfinished,
       including the "Adoration of the Magi," "Saint Jerome in the Wilderness,"
-      and the \"Battle of Anghiari\".
-  - question: >
-      Was Leonardo ever criticized for his lack of focus or unfinished projects?
+      and the "Battle of Anghiari".
+  - question: Was Leonardo ever criticized for his lack of focus or unfinished projects?
     answer: >
       Yes, Leonardo faced criticism for his procrastination and his tendency to
       leave projects unfinished. Some patrons, eager to see completed works,
@@ -432,8 +427,7 @@ seed_examples:
       hydraulic systems. These creations were not merely flights of fancy but
       practical expressions of his relentless quest to understand and improve
       upon the world around him.
-  - question: >
-      How did Leonardo\'s emphasis on experience shape his learning process?
+  - question: How did Leonardo\'s emphasis on experience shape his learning process?
     answer: >
       Leonardo\'s belief in the primacy of experience led him to prioritize
       observation, experimentation, and hands-on engagement with the world. He
@@ -460,8 +454,7 @@ seed_examples:
       understand and record information. This visual approach allowed him to
       translate complex ideas into tangible forms, facilitating both his own
       comprehension and his ability to communicate his discoveries to others.
-  - question: >
-      How did Leonardo\'s artistic talents enhance his scientific pursuits?
+  - question: How did Leonardo\'s artistic talents enhance his scientific pursuits?
     answer: >
       Leonardo\'s artistic talents, particularly his skill in drawing and his
       understanding of light, shadow, and perspective, significantly enhanced
@@ -502,9 +495,7 @@ seed_examples:
       new insights. He embraced procrastination as a necessary part of this
       creative cycle, allowing him to explore multiple possibilities before
       committing to a final solution.
-  - question: >
-      \'Was Leonardo a collaborative innovator,
-      or did he prefer to work alone?\'
+  - question: 'Was Leonardo a collaborative innovator, or did he prefer to work alone?'
     answer: >
       While Leonardo possessed a singular vision and often worked independently,
       he also recognized the value of collaboration in the innovation process.
@@ -527,8 +518,7 @@ seed_examples:
       and even the tongue of a woodpecker. His thirst for knowledge was
       insatiable, driven by a pure desire to understand, regardless of practical
       applications.
-  - question: >
-      Did Leonardo ever prioritize practical knowledge over pure curiosity?
+  - question: Did Leonardo ever prioritize practical knowledge over pure curiosity?
     answer: >
       While Leonardo certainly valued practical knowledge and applied his
       discoveries to create innovative machines and refine his artistic
@@ -547,8 +537,7 @@ seed_examples:
       itself, believing that a deeper understanding of the world would
       ultimately lead to greater insights and innovations, even if those
       benefits were not immediately apparent.
-  - question: >
-      Did Leonardo use his social skills to further his intellectual pursuits?
+  - question: Did Leonardo use his social skills to further his intellectual pursuits?
     answer: >
       Leonardo effectively leveraged his social skills to cultivate
       relationships that fostered his intellectual pursuits. He charmed patrons,
@@ -644,8 +633,8 @@ seed_examples:
       connection.
   - question: What can we learn from Leonardo\'s approach to relationships?
     answer: >
-      Leonardo\'s approach to relationships reminds us of the importance of
-      human connection, even for those who spend much of their time in solitary
+      Leonardo\'s approach to relationships reminds us of the importance of human
+      connection, even for those who spend much of their time in solitary
       pursuits. His ability to cultivate meaningful relationships, both
       professional and personal, likely contributed to his creative output and
       enriched his life experience.
@@ -668,14 +657,13 @@ seed_examples:
       sense of wonder and a willingness to push the boundaries of what we know.
   - question: How can we apply Leonardo\'s approach to life in our own lives?
     answer: >
-      We can apply Leonardo\'s approach to life by cultivating our own
-      curiosity, observing the world around us with attentiveness, and seeking
-      connections between seemingly disparate ideas. We can embrace
-      experimentation, learn from our failures, and nurture our creativity,
-      regardless of our chosen field of endeavor. Leonardo\'s legacy encourages
-      us to become lifelong learners, to pursue knowledge for its own sake, and
-      to approach the world with a sense of wonder and a desire to uncover its
-      mysteries.
+      We can apply Leonardo\'s approach to life by cultivating our own curiosity,
+      observing the world around us with attentiveness, and seeking connections
+      between seemingly disparate ideas. We can embrace experimentation, learn
+      from our failures, and nurture our creativity, regardless of our chosen
+      field of endeavor. Leonardo\'s legacy encourages us to become lifelong
+      learners, to pursue knowledge for its own sake, and to approach the world
+      with a sense of wonder and a desire to uncover its mysteries.
   - question: What motivated Leonardo to write in mirror script?
     answer: >
       While some speculate that Leonardo\'s mirror script was a way to protect
